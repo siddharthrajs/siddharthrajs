@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">A senior at Thapar University and full stack developer from India</h3>
+<h3 align="center">A senior at Thapar University and Software Engineer from India</h3>
 
 - 🔭 I’m currently working on **Quiz master**
 
